@@ -1,2 +1,2 @@
 # redis
-redis wiki
+![abstract](./asset/abstract.jpg)
