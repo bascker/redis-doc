@@ -1,2 +1,2 @@
 # redis
-![abstract](./asset/abstract.jpg)
+![abstract](./asset/abstract.png)
