@@ -10,7 +10,7 @@
 
 
 Java 中使用 jedis 来操作 redis。通过 set() 函数来进行分布式锁实现。
-```
+```Java
 jedis = jedisPool.getResource();
 
 // NX：是否存在key，存在则不set成功  

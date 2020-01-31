@@ -9,7 +9,7 @@
 | spring-session-data-redis      | 引入spring-session，用作共享session |                                      |
 
 自定义模板：
-```
+```java
 @Configuration
 @AutoConfigureAfter(RedisAutoConfiguration)
 public class RedisConfig {
